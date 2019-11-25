@@ -1,5 +1,7 @@
 # draggable-tailwind
 
+Sample project using tailwind and vuedraggable. Tutorial source: https://www.binarcode.com/blog/building-animated-draggable-interfaces-with-vuejs-and-tailwind/
+
 ## Project setup
 ```
 npm install
